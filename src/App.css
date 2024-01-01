@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.home {
+  background: #000;
+  width: 100%;
+  color: #fff;
+  width: 100%;
+}
+
+.list {
+  padding: 90px 30px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+  position: relative;
+  top: -400px;
+}

@@ -1,0 +1,11 @@
+.cadre{
+    height: 400px;
+    width: 200px;
+}
+.cadre img{
+    height: 260px;
+    width: 200px;
+}
+.cadre i{
+    color: gold;
+}
